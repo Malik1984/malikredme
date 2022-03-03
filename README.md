@@ -1,2 +1,2 @@
 # malikredme
-only readme file in repo
+only readme file in repo edited at sheryar mehmood account 
